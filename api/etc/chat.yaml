@@ -1,0 +1,11 @@
+Name: chat
+Host: 0.0.0.0
+Port: 8123
+
+OpenAI:
+  ApiKey: "sk-62fe53c7a4aa402c8dbdc020e4a1d4f8"
+  BaseUrl: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  Model: "qwen-plus"
+  MaxTokens: 2048 #最大token数
+  Temperature: 0.7 #温度参数专注值
+
